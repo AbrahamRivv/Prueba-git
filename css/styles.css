@@ -7,18 +7,6 @@ body{
     font-size: 16px;
 }
 
-#container{
-    width: 70%;
-    padding: 1em;
-    text-align: left;  
-    border: 1px solid black;
-    margin: 0 auto;
-}
-
-#container h1{
-    font-size: 20px;
-}
-
 #cabecera{
     background: blue;
     box-shadow: 0px 2px 20px 0px;
@@ -33,3 +21,16 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;  
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
+
